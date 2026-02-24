@@ -77,219 +77,173 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",DISCOVERY TURBO
-https://tvsen6.aynaott.com/discovery_turbo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",CINEMAX
-http://67.220.85.156:14043
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Y Tv
-https://tvsen6.aynaott.com/ytv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Nicklodean
-https://tvsen7.aynaott.com/nicklodean/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Disney XD
-https://tvsen5.aynaott.com/disneyxd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Disney Jr
-https://tvsen7.aynaott.com/disneyjr/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Disney
-https://tvsen5.aynaott.com/disney/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Family Jr
-https://tvsen5.aynaott.com/familyjr/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Teen Nick
-https://tvsen7.aynaott.com/teennick/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",PB KIDS
-https://tvsen5.aynaott.com/pbskids/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Discovery Kids
-https://tvsen5.aynaott.com/universalkids/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Rongeen Tv
-https://tvsen5.aynaott.com/RongeenTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",CNN
-https://tvsen6.aynaott.com/cnn/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",CNBC
-https://tvsen6.aynaott.com/cnbc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT", MSNBC
-https://tvsen6.aynaott.com/msnbc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Sky Nature
-https://tvsen6.aynaott.com/skynature/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",AXS TV
-https://tvsen6.aynaott.com/axs/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",BBC NEWS
-https://tvsen6.aynaott.com/bbcnews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Sky NEWS
-https://tvsen5.aynaott.com/skynews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",FOX NEWS
-https://tvsen6.aynaott.com/foxnews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",CP24
-https://tvsen6.aynaott.com/cp24/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Bharat 24 
-https://tvsen7.aynaott.com/Bharat24Vi/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Sadhna Prime News
-https://tvsen6.aynaott.com/SadhnaPrimeNews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",News 24
-https://tvsen7.aynaott.com/News24/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",TV9 Bharatvarsh
-https://tvsen7.aynaott.com/TV9Bharatvarsh/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Republic Tv
-https://tvsen7.aynaott.com/REPUBLIC_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",R Bangla
-https://tvsen7.aynaott.com/R_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",News Time
-https://tvsen6.aynaott.com/NewsTime/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Laff
-https://tvsen7.aynaott.com/laff/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Star Sports 1 HD
-https://tvsen7.aynaott.com/sspts1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Sony Ten  1 HD
-https://tvsen5.aynaott.com/snTn1HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Ptv Sports HD
-https://tvsen7.aynaott.com/wJf84zDS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",TNT Sports 1
-https://tvsen6.aynaott.com/btSport1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",TNT Sports 2
-https://tvsen6.aynaott.com/btSport2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",A Sports 
-https://tvsen6.aynaott.com/asports/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",T Sports 
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Massranga Tv
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Deepto Tv
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",NTV 
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",ATN BANGLA
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",RTV HD
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",NTV BD
-https://tvsen5.aynaott.com/ntvbd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",ASIAN TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Ananda Tv
-https://tvsen6.aynaott.com/anandatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",SA Tv
-https://tvsen6.aynaott.com/satv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Islam Tv
-https://tvsen6.aynaott.com/islam/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Desh Tv
-https://tvsen6.aynaott.com/deshtv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Bagnla Tv
-https://tvsen6.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Jamuna Tv
-https://tvsen6.aynaott.com/jamunatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Nexus Tv
-https://tvsen6.aynaott.com/nexustv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",BTV HD
-https://tvsen6.aynaott.com/btvhd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",BTV NEWS
-https://tvsen6.aynaott.com/BTVNews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",BTV WORLD
-https://tvsen6.aynaott.com/btv_world/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",BTV CHATTRAGRAM
-https://tvsen6.aynaott.com/btvctg/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Channel S
-https://tvsen6.aynaott.com/channels/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",MY TV
-https://tvsen6.aynaott.com/mytv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Atn News HD
-https://tvsen6.aynaott.com/atnnews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Etv
-https://tvsen6.aynaott.com/etv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",DURONTO TV
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Time TV
-https://tvsen7.aynaott.com/timetv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",GAZI TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Green TV
-https://tvsen6.aynaott.com/GreenTvHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Global Tv
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Bijoy Tv HD
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Mohona Tv 
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Boushakhi Tv 
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Channel 9 
-https://tvsen6.aynaott.com/channel9/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Ekhon Tv
-https://tvsen6.aynaott.com/ekhontv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Banglavishion
-https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Channel I
-https://tvsen6.aynaott.com/channeli/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Independent Tv
-https://tvsen6.aynaott.com/independenttv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",DBC News
-https://tvsen6.aynaott.com/dbcnews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Channel 24
-https://tvsen6.aynaott.com/channel24/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",News 24
-https://tvsen6.aynaott.com/news24/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Ekattor Tv
-https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Somoy News 
-https://tvsen6.aynaott.com/somoytv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",STAR JALSHA HD
-https://tvsen7.aynaott.com/sjhdbd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",ZEE Bangla HD
-https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Aakash Bangla
-https://tvsen6.aynaott.com/aakaashBangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Colors Bangla HD
-https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Ruposhi Bangla
-https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",SONY TV HD
-https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",STAR PLUS HD
-https://tvsen7.aynaott.com/sphdbd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",COLORS HD
-https://tvsen6.aynaott.com/ColorsHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Anjan Tv
-https://tvsen7.aynaott.com/AnjanTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",SET Entertainment
-http://66.102.120.18:8000/play/a03c
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",HI DOST
-https://tvsen6.aynaott.com/HiDost/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",SYFY TV
-https://tvsen7.aynaott.com/syfy/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Food Network
-https://tvsen6.aynaott.com/foodnetwork/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",TLC HD
-https://tvsen6.aynaott.com/tlc_hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Cooking Tv
-https://tvsen7.aynaott.com/cooking/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Bravo Tv
-https://tvsen7.aynaott.com/bravo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",PIX 11
-https://tvsen6.aynaott.com/pix11/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",FX TV
-https://tvsen7.aynaott.com/fx/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Dhamaka Movies 
-https://tvsen7.aynaott.com/DhamakaMovies/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",B4u HITZ
-https://tvsen5.aynaott.com/B4UHitz/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",B4U Kadak
-https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Goldmines 
-https://tvsen6.aynaott.com/Goldmines/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Utsav Gold
-http://45.148.145.57/IN_STU/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Romedy NOW HD
-http://66.102.120.18:8000/play/a01j
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Peace Tv Bangla
-https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Peace Tv
-https://tvsen5.aynaott.com/peacetv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Madani Tv 
-https://tvsen7.aynaott.com/MadaniTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",TV One Bangla
-https://tvsen5.aynaott.com/tvone/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ayna OTT",Channel Win
-https://tvsen6.aynaott.com/ChannelWin/index.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_80.png",ATN BANGLA
+http://203.18.159.115/ATNBANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_95.png",ATN NEWS
+http://203.18.159.115/ATNNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_82.png",CHANNEL 24
+http://203.18.159.115/CHANNEL24/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_81.png",CHANNEL I HD
+http://203.18.159.115/CHANNELI/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_68.png",DURONTO TV
+http://203.18.159.115/DURANTATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_84.png",ENTERR 10 BANGLA
+http://203.18.159.115/ENTERR10/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_56.png",GAZI TV HD
+http://203.18.159.115/GTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_77.png",INDEPENDENT TV
+http://203.18.159.115/INDEPENDENTTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_76.png",JAMUNA TV
+http://203.18.159.115/JAMUNATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_54.png",NAGORIK TV
+http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_78.png",MAASRANGA TV
+http://203.18.159.115/MAASRANGAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_79.png",SOMOY TV
+http://203.18.159.115/SOMOYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_44.png",SONY AATH
+http://203.18.159.115/SONYAAT/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_14.png",ZEE BANGLA FHD
+http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_43.png",Zee Bangla Cinema
+http://203.18.159.115/ZEEBANGLACINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_18.png",STAR JALSHA FHD
+http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_19.png",JALSHA MOVIES FHD
+http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_12.png",COLORS BANGLA FHD
+http://203.18.159.115/COLORSBANGLAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_47.png",COLORS BANGLA CINEMA
+http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_17.png",SUN BANGLA FHD
+http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_4.png",COLORS FHD
+http://203.18.159.115/COLORSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_10.png",COLORS CINEPLEX FHD
+http://203.18.159.115/COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_11.png",SONY ENTERTEMENT FHD
+http://203.18.159.115/SONYENTHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_21.png",SONY MAX HD
+http://203.18.159.115/SONYMAXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_32.png",SONY PIX HD
+http://203.18.159.115/SONYPIXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_100.png",STAR BHARAT FHD
+http://203.18.159.115/STARBHARATHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_20.png",STAR GOLD FHD
+http://203.18.159.115/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_71.png",STAR GOLD SELECT FHD
+http://203.18.159.115/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_24.png",STAR PLUS FHD
+http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_38.png",STAR MOVIES HD
+http://203.18.159.115/STARMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_27.png",STAR MOVIES SELECT HD
+http://203.18.159.115/STARMOVIESSELECTHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_43.png",ZEE CINEMA FHD
+http://203.18.159.115/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_7.png",ZEE TV FHD
+http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_37.png",ZEE CAFE HD
+http://203.18.159.115/ZEECAFEHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_42.png",ZOOM FHD
+http://203.18.159.115/ZOOM/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_53.png",ZING FHD
+http://203.18.159.115/ZING/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_35.png",AND FLIX HD
+http://203.18.159.115/ANDFLIXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_5.png",AND PICTURE HD
+http://203.18.159.115/ANDPICTURSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_41.png",AND PRIVE HD
+http://203.18.159.115/ANDPRIVEHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_61.png",AND XPLORE HD
+http://203.18.159.115/ANDXPLORE/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_89.png",HUM TV FHD
+http://203.18.159.115/HUMTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_50.png",BAL BHARAT
+http://203.18.159.115/BALBHARAT/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_8.png",CARTOON NETWORK HD+
+http://203.18.159.115/CARTOONNETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_46.png",NICK BANGLA
+http://203.18.159.115/NICK/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_51.png",NICK JR
+http://203.18.159.115/NICKJR/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_48.png",POGO
+http://203.18.159.115/POGO/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_93.png",SONY YAY!
+http://203.18.159.115/SONYYAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_45.png",SONIC BANGLA
+http://203.18.159.115/SONIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_49.png",HUNGAMA
+http://203.18.159.115/HUNGAMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_75.png",SUPER HUNGAMA
+http://203.18.159.115/SUPERHUNGAMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_1.png",T SPORTS FHD
+http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_92.png",PTV SPORTS FHD
+http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_88.png",A SPORTS FHD
+http://203.18.159.115/ASPORTSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png",STAR SPORTS 1 FHD
+http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_3.png",STAR SPORTS 2 FHD
+http://203.18.159.115/STARSPORTS2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_31.png",STAR SPORTS 3 FHD
+http://203.18.159.115/STARSPORTS3/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_28.png",STAR SPORTS SELECT 1 FHD
+http://203.18.159.115/STARSELECT1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_16.png",STAR SPORTS SELECT 2 FHD
+http://203.18.159.115/STARSPORTSSELECT2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_74.png",SONY SPORTS TEN 1 HD
+http://203.18.159.115/SONYSPORTS1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_29.png",SONY SPORTS TEN 2 HD
+http://203.18.159.115/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_30.png",SONY SPORTS TEN 3
+http://203.18.159.115/SONYSPORTS3/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_72.png",SONY SPORTS TEN 4
+http://203.18.159.115/SONYSPORTS4/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_101.png",SONY SPORTS TEN 5 HD
+http://203.18.159.115/SONYSPORTS5HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_87.png",FASTSPORTS HD
+http://203.18.159.115/FASTSPORTSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_40.png",EUROSPORTS HD
+http://203.18.159.115/EUROSPORTSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_66.png",GOLF SPORTS
+http://203.18.159.115/GOLFSPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_23.png",NAT GEO WILD FHD
+http://203.18.159.115/NATGEOWILDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_25.png",NAT GEO FHD
+http://203.18.159.115/NATGEOHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_22.png",DISCOVERY FHD
+http://203.18.159.115/DISCOVERYHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_26.png",ANIMAL PLANT FHD
+http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_15.png",HISTORY TV 18 FHD
+http://203.18.159.115/HISTORYTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_9.png",TLC HD
+http://203.18.159.115/TLCHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_62.png",TRAVEL XP
+http://203.18.159.115/TRAVELXP/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_6.png",SONY BBC EARTH FHD
+http://203.18.159.115/SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_102.png",BBC EARTH FHD
+http://203.18.159.115/BBCEARTHHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_85.png",ALJAZEERA FHD
+http://203.18.159.115/ALJAZEETAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_90.png",GEO NEWS
+http://203.18.159.115/GEONEWSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_97.png",AXN FHD
+http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_91.png",LOTUS TV
+http://203.18.159.115/LOTUSTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_36.png",MN PLUS
+http://203.18.159.115/MNPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_33.png",MNX HD
+http://203.18.159.115/MNXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_39.png",MOVIES NOW
+http://203.18.159.115/MOVIESNOWHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_34.png",ROMEDY NOW
+http://203.18.159.115/ROMEDYNOW/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_86.png",PEACE TV BANGLA FHD
+http://203.18.159.115/PEACETVBANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://linkchur.top/amrbd/logos/ch_83.png",MADANI TV FHD
+http://203.18.159.115/MADANITVHD/tracks-v1a1/mono.m3u8
